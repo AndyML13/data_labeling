@@ -3,13 +3,13 @@
 На основе разметки, структурирования и обогащения описаных ниже данных можно создавать системы для генерации историй/сказок/мультипликаций для детей
 
 ## Определение состава аннотационной схемы
-1.1. Модальности.
-Текстовые описания [chatGPT.com](https://chat.openai.com)
-Изображения [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals)
-Аудио [Kaggle](https://www.kaggle.com/datasets/caoofficial/animal-sounds)
-Текстовые произведения
+### 1.1. Модальности.
+*Текстовые описания [chatGPT.com](https://chat.openai.com)
+*Изображения [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals)
+*Аудио [Kaggle](https://www.kaggle.com/datasets/caoofficial/animal-sounds)
+*Текстовые произведения
 
-1.2. Основные сущности, объекты или явления для аннотирования.
+### 1.2. Основные сущности, объекты или явления для аннотирования.
 Текстовые описания:
 Животные (именованные сущности)
 Описание (атрибуты и характеристики животных)
