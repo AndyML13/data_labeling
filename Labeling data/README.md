@@ -35,7 +35,7 @@ Annotation, enrichment and structuring of data about animals in three modalities
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── data_label_animal                <- Source code for use in this project.
+└── src               <- Source code for use in this project.
     │
     ├── __init__.py    <- Makes data_label_animal a Python module
     │
