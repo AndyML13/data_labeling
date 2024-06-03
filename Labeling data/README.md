@@ -29,10 +29,6 @@ Annotation, enrichment and structuring of data about animals in three modalities
 ├── pyproject.toml     <- Project configuration file with package metadata for data_label_animal
 │                         and configuration for tools like black
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
